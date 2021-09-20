@@ -37,13 +37,6 @@ $aMenuLinks = Array(
 	),
 	Array(
 		"Отзывы", 
-		"reviews.php", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
-		"Отзывы", 
 		"/company/reviews/", 
 		Array(), 
 		Array(), 
