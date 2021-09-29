@@ -1,8 +1,8 @@
 <?
-$sSectionName = "partners";
-$arDirProperties = array(
-   "title" => "Партнерам",
+$sSectionName = "Партнерам";
+$arDirProperties = Array(
    "description" => "Выгодное предложение",
-   "keywords" => "скидка, распродажа"
+   "keywords" => "скидка, распродажа",
+   "title" => "Партнерам"
 );
 ?>

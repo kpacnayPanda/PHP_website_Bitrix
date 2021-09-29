@@ -1,0 +1,3 @@
+<?
+$MESS["SHOP"] = "About Shop";
+?>

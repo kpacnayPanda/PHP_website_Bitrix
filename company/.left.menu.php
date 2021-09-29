@@ -1,8 +1,9 @@
 <?
+$sMenuTemplate = "/";
 $aMenuLinks = Array(
 	Array(
 		"О компании", 
-		"./", 
+		"/company/index.php", 
 		Array(), 
 		Array(), 
 		"" 
@@ -38,6 +39,13 @@ $aMenuLinks = Array(
 	Array(
 		"Отзывы", 
 		"/company/reviews/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"test_comp", 
+		"/company/test-comp/", 
 		Array(), 
 		Array(), 
 		"" 
