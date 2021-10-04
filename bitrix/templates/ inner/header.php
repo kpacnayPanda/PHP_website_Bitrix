@@ -9,6 +9,10 @@ IncludeTemplateLangFile(__FILE__);
     <title><?$APPLICATION->ShowTitle()?></title>
 
     <?$APPLICATION->SetAdditionalCSS('/bitrix/templates/.default/template_styles.css')?>
+
+    <?$APPLICATION->AddHeadScript('/bitrix/templates/.default/js/jquery-1.8.2.min.js');?>
+    <?$APPLICATION->AddHeadScript('/bitrix/templates/.default/js/jquery.carouFredSel-6.1.0-packed.js');?>
+    <?$APPLICATION->AddHeadScript('/bitrix/templates/.default/js/functions.js');?>
     
     <link rel="shortcut icon" type="image/x-icon" href="/bitrix/templates/.default/favicon.ico">
     <!--[if gte IE 9]><style type="text/css">.gradient {filter: none;}</style><![endif]-->
