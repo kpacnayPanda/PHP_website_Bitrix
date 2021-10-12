@@ -1,11 +1,12 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001633764245';
-$dateexpire = '001669764245';
-$ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
+$datecreate = '001634069010';
+$dateexpire = '001670069010';
+$ser_content = 'a:2:{s:7:"CONTENT";s:5107:"
 
 <div class="rw_reviewed">
-				<div class="rw_message">
+			<div id="bx_3218110189_38">
+			<div class="rw_message">
 						        <span class="rw_name">Киселев</span>
 		        <span class="rw_job">
 		        	 
@@ -17,7 +18,9 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
 		        <p>						Спасибо за предоставления услуги&#41;									</p>
 		        <div class="clearboth"></div>
 	    	</div>
-				<div class="rw_message">
+	    </div>
+			<div id="bx_3218110189_37">
+			<div class="rw_message">
 						        <span class="rw_name">Админ</span>
 		        <span class="rw_job">
 		        	 
@@ -29,19 +32,9 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
 		        <p>						Спасибо за предоставления услуги									</p>
 		        <div class="clearboth"></div>
 	    	</div>
-				<div class="rw_message">
-						        <span class="rw_name">Иванов ч2</span>
-		        <span class="rw_job">
-		        	 
-													Зам директора						 
-					 
-													Рос						 
-					 
-				</span>
-		        <p>						Спасибо за предоставления услуги									</p>
-		        <div class="clearboth"></div>
-	    	</div>
-				<div class="rw_message">
+	    </div>
+			<div id="bx_3218110189_35">
+			<div class="rw_message">
 						        <span class="rw_name">Сидоров</span>
 		        <span class="rw_job">
 		        	 
@@ -50,10 +43,13 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
 													РосАтом						 
 					 
 				</span>
-		        <p>						Спасибо за предоставления услуги									</p>
+		        <p>						Спасибо за предоставления услуги test drive<br />
+									</p>
 		        <div class="clearboth"></div>
 	    	</div>
-				<div class="rw_message">
+	    </div>
+			<div id="bx_3218110189_34">
+			<div class="rw_message">
 						        <span class="rw_name">Кулешов</span>
 		        <span class="rw_job">
 		        	 
@@ -65,7 +61,9 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
 		        <p>						Спасибо за предоставления услуги									</p>
 		        <div class="clearboth"></div>
 	    	</div>
-				<div class="rw_message">
+	    </div>
+			<div id="bx_3218110189_33">
+			<div class="rw_message">
 							    	<img src="/upload/medialibrary/481/wjyy9ia99f4t3p7s2oz3226ef89m170u.png" class="rw_avatar" alt=""/>
 						        <span class="rw_name">Иванов</span>
 		        <span class="rw_job">
@@ -78,6 +76,7 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
 		        <p>						“Покупал офисные стулья и столы, остался очень доволен! Низкие цены, быстрая доставка, обслуживание на высоте! Спасибо!”									</p>
 		        <div class="clearboth"></div>
 	    	</div>
+	    </div>
 	</div>
 
 
@@ -100,18 +99,10 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
 			Название компании:&nbsp;
 							Моя компания						</small><br />
 			</p>
-		<p class="news-item" id="bx_3218110189_36">
-													<a href="/reviews/detail.php?ID=36"><b>Иванов ч2</b></a><br />
-										Спасибо за предоставления услуги											<small>
-			Должность:&nbsp;
-							Зам директора						</small><br />
-					<small>
-			Название компании:&nbsp;
-							Рос						</small><br />
-			</p>
 		<p class="news-item" id="bx_3218110189_35">
 													<a href="/reviews/detail.php?ID=35"><b>Сидоров</b></a><br />
-										Спасибо за предоставления услуги											<small>
+										Спасибо за предоставления услуги test drive<br />
+											<small>
 			Должность:&nbsp;
 							Менеджер						</small><br />
 					<small>
@@ -148,6 +139,6 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:5641:"
 							Телеком						</small><br />
 			</p>
 </div>
- -->";s:4:"VARS";a:2:{s:8:"arResult";a:7:{s:2:"ID";s:1:"5";s:14:"IBLOCK_TYPE_ID";s:7:"reviews";s:13:"LIST_PAGE_URL";s:43:"#SITE_DIR#/reviews/index.php?ID=#IBLOCK_ID#";s:15:"NAV_CACHED_DATA";N;s:4:"NAME";s:12:"Отзывы";s:7:"SECTION";b:0;s:8:"ELEMENTS";a:6:{i:0;i:38;i:1;i:37;i:2;i:36;i:3;i:35;i:4;i:34;i:5;i:33;}}s:18:"templateCachedData";a:4:{s:13:"additionalCSS";s:77:"/bitrix/templates/.default/components/bitrix/news.list/main_reviews/style.css";s:9:"frameMode";b:1;s:17:"__currentCounters";a:1:{s:28:"bitrix:system.pagenavigation";i:1;}s:13:"__editButtons";a:12:{i:0;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"38";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=38&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:1;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"38";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=38&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:2;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"37";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=37&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:3;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"37";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=37&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:4;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"36";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=36&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:5;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"36";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=36&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:6;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"35";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=35&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:7;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"35";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=35&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:8;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"34";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=34&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:9;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"34";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=34&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:10;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"33";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=33&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:11;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"33";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=33&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}}}}}';
+ -->";s:4:"VARS";a:2:{s:8:"arResult";a:7:{s:2:"ID";s:1:"5";s:14:"IBLOCK_TYPE_ID";s:7:"reviews";s:13:"LIST_PAGE_URL";s:43:"#SITE_DIR#/reviews/index.php?ID=#IBLOCK_ID#";s:15:"NAV_CACHED_DATA";N;s:4:"NAME";s:12:"Отзывы";s:7:"SECTION";b:0;s:8:"ELEMENTS";a:5:{i:0;i:38;i:1;i:37;i:2;i:35;i:3;i:34;i:4;i:33;}}s:18:"templateCachedData";a:4:{s:13:"additionalCSS";s:77:"/bitrix/templates/.default/components/bitrix/news.list/main_reviews/style.css";s:9:"frameMode";b:1;s:17:"__currentCounters";a:1:{s:28:"bitrix:system.pagenavigation";i:1;}s:13:"__editButtons";a:20:{i:0;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"38";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=38&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:1;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"38";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=38&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:2;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"37";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=37&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:3;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"37";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=37&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:4;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"35";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=35&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:5;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"35";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=35&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:6;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"34";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=34&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:7;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"34";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=34&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:8;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"33";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=33&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:9;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"33";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=33&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:10;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"38";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=38&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:11;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"38";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=38&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:12;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"37";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=37&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:13;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"37";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=37&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:14;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"35";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=35&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:15;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"35";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=35&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:16;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"34";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=34&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:17;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"34";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=34&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:18;a:5:{i:0;s:13:"AddEditAction";i:1;s:2:"33";i:2;s:217:"/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=5&type=reviews&ID=33&lang=ru&force_catalog=&filter_section=0&bxpublic=Y&from_module=iblock&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:19;a:5:{i:0;s:15:"AddDeleteAction";i:1;s:2:"33";i:2;s:170:"/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=5&type=reviews&lang=ru&action=delete&ID=33&return_url=%2Freviews%2F%3Fbitrix_include_areas%3DY%26ID%3D5%26clear_cache%3DY";i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}}}}}';
 return true;
 ?>
